@@ -108,7 +108,7 @@ class _HomeState extends State<Home> {
                           ),
                         ],
                       ),
-                      //Divider(),
+                      Divider(),
                       Container(
                         color: Colors.black,
                         child: Row(
