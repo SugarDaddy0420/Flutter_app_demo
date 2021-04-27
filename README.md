@@ -1,7 +1,6 @@
-  - [Vue上課程式碼及說明文件本](#Vue上課程式碼及說明文件)
   - [Flutter安裝](#Flutter安裝)
   - [Flutter安裝常見錯誤](#Flutter安裝常見錯誤)
-  - [FlutterDay1](#FlutterDay1)
+  - [Flutter](#Flutter)
     - [無狀態widget](#無狀態widget)
     - [有狀態widget](#有狀態widget)
     - [使用套件](#使用套件)
@@ -15,10 +14,6 @@
       - [InkWell](#InkWell)
       - [MediaQuery](#MediaQuery)
   - [JsonToDart](#JsonToDart)
-
-# Vue上課程式碼及說明文件
-- https://github.com/lanceden/flutter_demo/tree/main/assets/VueDemo
-- https://github.com/lanceden/vuecli-demo
 
 # Flutter安裝
 - mac
@@ -38,7 +33,7 @@
 * https://github.com/lanceden/flutter_demo/blob/main/FlutterInstall.md
 
 
-# FlutterDay1
+# Flutter
 
 - 了解如何寫出建置專案的計數器
 - 語法快捷鍵
