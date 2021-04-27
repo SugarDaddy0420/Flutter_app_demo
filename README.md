@@ -202,9 +202,6 @@ ListView.builder(
 
 #### InkWell
 - 當需要給一個元素點擊事件的時候可使用
-#### GestureDetector
-- 用法與InkWell類似，不過GestureDetector有更多處理手勢的方法
-
 ```
 InkWell(
   onTap: () {
@@ -217,6 +214,11 @@ InkWell(
 ),
 
 ```
+
+#### GestureDetector
+- 用法與InkWell類似，不過GestureDetector有更多處理手勢的方法
+
+
 
 #### MediaQuery 
 - 取回當前裝置大小資訊
