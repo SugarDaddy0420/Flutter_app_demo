@@ -25,14 +25,6 @@
 6. 重新加載terminal：source ~/.zshrc
 6. 開啟terminal，輸入:flutter doctor，驗證是否安裝成功
 
-
-# Flutter安裝常見錯誤
-
-* 若照上述安裝有錯誤或失敗，請參考底下連結
-
-* https://github.com/lanceden/flutter_demo/blob/main/FlutterInstall.md
-
-
 # Flutter
 
 - 了解如何寫出建置專案的計數器
